@@ -25,7 +25,7 @@ Navega hasta el directorio donde se encuentra el archivo ".py".
 Ejecuta el programa escribiendo python nombre\_del\_archivo.py.
 
 
-**Menú Principal:**
+# Menú Principal
 
 Cuando inicies la aplicación, verás el menú principal con las siguientes opciones:
 
@@ -42,7 +42,7 @@ Cuando inicies la aplicación, verás el menú principal con las siguientes opci
 
 ------------
 
-**Agregar Producto:**
+#  Agregar Producto
 
 Se te solicitará proporcionar los siguientes datos de un producto:
 
@@ -55,17 +55,23 @@ Se te solicitará proporcionar los siguientes datos de un producto:
 7. Descuento del producto
 8. El producto se agregará al sistema con los datos proporcionados.
 
+#  Agregar Producto
+![](https://github.com/Yovanygt/imagenes/blob/main/ingreso%20datos.jpg?raw=true)
+
 
 ------------
 
-**Buscar Producto:**
+# **Buscar Producto:**
 
 Deberás ingresar el código del producto que deseas buscar.
 El sistema buscará el producto en la base de datos y mostrará su información si se encuentra.
 
+# **Buscar Producto:**
+![](https://github.com/Yovanygt/imagenes/blob/main/guardar%20producto.jpg?raw=true)
+
 ------------
 
-**Editar Producto:**
+# **Editar Producto:**
 
 Para editar un producto: 
 ingresa el código del producto que deseas modificar.
@@ -80,7 +86,8 @@ A continuación, proporciona los nuevos datos para el producto, incluyendo:
 
 El producto existente se actualizará con los nuevos datos.
 
-
+# **Editar Producto:**
+![](https://github.com/Yovanygt/imagenes/blob/main/editar%20producto.jpg?raw=true)
 
 
 
