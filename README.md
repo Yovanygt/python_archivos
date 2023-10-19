@@ -16,10 +16,8 @@ Enlace: [Proyecto](https://github.com/Yovanygt/python_archivos/blob/main/Proyect
 
 
 ------------
-
-- ### [Manejo de Archivos en Python](https://youtu.be/VFJPf0TIKBI?feature=shared "Manejo de Archivos en Python")
-
-------------
+### Video en Youtube
+[Enlace del Video](https://www.youtube.com/watch?v=VFJPf0TIKBI "Enlace del Video")
 
 
-------------
+
