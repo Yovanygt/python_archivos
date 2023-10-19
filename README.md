@@ -2,15 +2,18 @@
 
 ------------
 
-## Archivos Subidos
+
+## Proyecto.py
+------------
+Enlace: [Proyecto](https://github.com/Yovanygt/python_archivos/blob/main/Proyecto%202%20Python.py "Proyecto")
 
 ------------
-- Proyecto 2.py
-- Manual de Funcionamiento del programa en formato pdf
 
-------------
+### # Enlaces A Manuales
+[Manual Tecnico](https://github.com/Yovanygt/python_archivos/blob/main/manual_tecnico.md "Manual Tecnico")
 
-### Enlace de Video de desarrollo del programa en formato pdf
+[Manual de usuario](https://github.com/Yovanygt/python_archivos/blob/main/Manual_de_usuario.md "Manual de usuario")
+
 
 ------------
 
