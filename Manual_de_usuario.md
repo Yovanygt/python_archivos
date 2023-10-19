@@ -37,6 +37,9 @@ Cuando inicies la aplicación, verás el menú principal con las siguientes opci
 
 4\. Salir del Programa: Cierra la aplicación.
 
+# Menú
+![](https://github.com/Yovanygt/imagenes/blob/main/menu.jpg?raw=true)
+
 ------------
 
 **Agregar Producto:**
