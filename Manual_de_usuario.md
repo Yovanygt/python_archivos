@@ -17,12 +17,12 @@ El Sistema de Gestión de Productos es una aplicación de consola que permite a 
 
 **Instrucciones:**
 
-			Ejecutar la Aplicación:
- 		   Asegúrate de tener Python instalado en tu sistema.
- 		   Guarda el código del programa en un archivo con extensión ".py".
- 		   Abre una terminal o línea de comandos en tu sistema.
- 		   Navega hasta el directorio donde se encuentra el archivo ".py".
-			Ejecuta el programa escribiendo python nombre\_del\_archivo.py.
+Ejecutar la Aplicación:
+Asegúrate de tener Python instalado en tu sistema.
+Guarda el código del programa en un archivo con extensión ".py".
+Abre una terminal o línea de comandos en tu sistema.
+Navega hasta el directorio donde se encuentra el archivo ".py".
+Ejecuta el programa escribiendo python nombre\_del\_archivo.py.
 
 
 **Menú Principal:**
